@@ -1,3 +1,15 @@
+commit 5e13c1b1c9e2572658f0fc9dc2cfb6bb5ae5bc1e
+Author: Thatphum <s6201012620112@email.kmutnb.ac.th>
+Date:   Fri Aug 28 11:54:14 2020 +0700
+
+    -Fixed Plan
+
+commit 9195e6ca8c9d27a7fa5c9255f02b892facb28072
+Author: Thatphum <s6201012620112@email.kmutnb.ac.th>
+Date:   Fri Aug 21 14:41:10 2020 +0700
+
+    Add git-log
+
 commit 53fb0148e41e8d4fc2d70fedf6b5364912dbd681
 Author: Thatphum <s6201012620112@email.kmutnb.ac.th>
 Date:   Fri Aug 21 14:39:56 2020 +0700
